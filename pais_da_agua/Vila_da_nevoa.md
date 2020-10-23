@@ -1,0 +1,2 @@
+Kisame Hoshigaki
+Haku

@@ -60,7 +60,7 @@ INVENTÁRIO:
 ---------------------------------------------------------------------------------------------------
 
 shuriken  
-comida
+comidinhaaaa
 dinheiro 
 shurikens 
 kunais 

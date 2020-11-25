@@ -1,3 +1,3 @@
 gaara
 temari
-kankuro
+kankuro.

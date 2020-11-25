@@ -1,2 +1,3 @@
 Ishikawa 
 Deidara
+Kurotsuchi 

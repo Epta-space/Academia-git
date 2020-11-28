@@ -1,2 +1,3 @@
+zabuza
+haku
 Kisame Hoshigaki
-Haku

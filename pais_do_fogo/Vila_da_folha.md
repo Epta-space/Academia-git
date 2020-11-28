@@ -66,6 +66,8 @@ ff            K   K    KKKKKK                
           fffff f                                    ff     
 
 -----------------------------------------------------------------------
+kakashi
+naruto
 
 Sasuke
 Naruto

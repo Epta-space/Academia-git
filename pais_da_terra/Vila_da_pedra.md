@@ -1,2 +1,4 @@
-deidara
 muu
+Ishikawa 
+Deidara
+Kurotsuchi 

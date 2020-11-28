@@ -69,3 +69,6 @@ ff            K   K    KKKKKK                
 kakashi
 naruto
 
+Sasuke
+Naruto
+

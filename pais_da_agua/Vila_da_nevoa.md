@@ -1,3 +1,3 @@
 zabuza
 haku
-kisame
+Kisame Hoshigaki

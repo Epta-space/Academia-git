@@ -1,2 +1,3 @@
 Deidara
 Fuuka
+Kakkou

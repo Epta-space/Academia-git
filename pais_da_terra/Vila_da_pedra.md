@@ -1,2 +1,3 @@
 Deidara
 Akatsuchi
+Yakumo Kurama

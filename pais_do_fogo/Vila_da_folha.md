@@ -72,3 +72,5 @@ naruto
 Sasuke
 Naruto
 
+Rock lee
+Iruka Umino

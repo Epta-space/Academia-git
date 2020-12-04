@@ -1,4 +1,6 @@
+Deidara
+Akatsuchi
+Yakumo Kurama
 muu
 Ishikawa 
-Deidara
 Kurotsuchi 

@@ -1,3 +1,4 @@
+Hozuki Mangetsu
 Koori Haku
 Yuukimaru
 Zabuza Momochi

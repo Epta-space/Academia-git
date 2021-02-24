@@ -1,4 +1,6 @@
-                                                                                    
+
+Narutaaaaooooo                                                                                    
+
                                                                                     
                                                                                     
                                       ▓▓▓▓▓▓  ▓▓▓▓▓▓                                
@@ -59,11 +61,11 @@
 INVENTÁRIO:
 ---------------------------------------------------------------------------------------------------
 
-shuriken  
-comida
-dinheiro 
-shurikens 
-kunais 
+shuriken: 10 
+comida : lamen
+dinheiro: 1000 ienes
+shurikens: 10
+kunais: 20
 
 
 

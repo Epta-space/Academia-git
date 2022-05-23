@@ -72,3 +72,6 @@ Naruto
 Rock lee
 Iruka Umino
 
+Renata
+Shikamaru
+

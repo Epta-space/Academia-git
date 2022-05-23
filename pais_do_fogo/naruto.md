@@ -61,12 +61,6 @@ Narutaaaaooooo
 INVENTÁRIO:
 ---------------------------------------------------------------------------------------------------
 
-shuriken: 10 
-comida : lamen
-dinheiro: 1000 ienes
-shurikens: 10
-kunais: 20
-
 
 
 

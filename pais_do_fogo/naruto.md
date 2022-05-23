@@ -1,4 +1,6 @@
-                                                                                    
+
+Narutaaaaooooo                                                                                    
+
                                                                                     
                                                                                     
                                       ▓▓▓▓▓▓  ▓▓▓▓▓▓                                
@@ -58,12 +60,6 @@
 
 INVENTÁRIO:
 ---------------------------------------------------------------------------------------------------
-
-shuriken  
-comida comidinha
-dinheiro 
-shurikens 
-kunais 
 
 
 
